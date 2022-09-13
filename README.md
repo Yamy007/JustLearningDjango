@@ -1,0 +1,2 @@
+# JustLearningDjango
+my short course
